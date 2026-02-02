@@ -16,15 +16,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anas-Nakhuda&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anas-Nakhuda&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🔥 Streak Stats
