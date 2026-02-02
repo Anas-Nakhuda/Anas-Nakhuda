@@ -16,12 +16,12 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,vscode" />
 </p>
----
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anas-Nakhuda&theme=tokyonight"/>
-</p>
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anas-Nakhuda&theme=tokyonight&cache_seconds=3600)
+
 
 ---
 
