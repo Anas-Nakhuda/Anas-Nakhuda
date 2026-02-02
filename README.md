@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Nakhuda&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Nakhuda&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: anasnakhuda788@gmail.com
-- 💼 LinkedIn: add-link-here
+- 💼 LinkedIn: https://www.linkedin.com/in/anas-nakhuda-a70429284
 
 ---
 
