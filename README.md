@@ -21,6 +21,7 @@
 
 ### 🚀 Projects
 - 🎬 Movie Recommendation System (Python ML)
+- Resume Analyzer(python)
 - 📚 Student Management System (Java + MySQL)
 - 🌐 Personal Portfolio Website (HTML/CSS/JS)
 - 📊 Excel Data Analysis Projects
