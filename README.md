@@ -34,7 +34,7 @@
 
 ---
 
-### 🐍 3D Contribution Snake Animation
+###  Contribution
 ![snake gif](https://github.com/Anas-Nakhuda/Anas-Nakhuda/blob/output/github-contribution-grid-snake.svg)
 
 ---
