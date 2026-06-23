@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd Year B.E. Computer Engineering student at LDRP Institute of Research & Technology
+- 🎓 4th Year B.E. Computer Engineering student at LDRP Institute of Research & Technology
 - 🌱 Currently learning **DSA, Web Development, AI/ML**
 - 💻 Interested in Software Development & Problem Solving
 - 📍 Gujarat, India
