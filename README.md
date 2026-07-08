@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&%20Data%20Science Ethusiast%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
 
 ### 📊 Turning messy data into decisions worth trusting
 
@@ -27,7 +27,7 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 
 - 🔭 Currently deepening my skills in **Machine Learning & Applied Statistics**
 - 🌱 Learning: **SQL for analytics** and **model deployment (Streamlit/Flask)**
-- 💬 Ask me about: **Pandas, EDA, Data Cleaning, Titanic/Iris/Netflix-style analysis**
+- 💬 Ask me about: **Pandas, EDA, Data Cleaning, analysis**
 - ⚡ Fun fact: I'd rather debug a `KeyError` than watch a movie
 
 ---
@@ -89,8 +89,8 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 ### 🎓 Education & Certifications
 
 - **B.E. Computer Engineering** — CPI: `7.98` · Expected 2027
-- 📜 Python For Data Science — nptel,july-Aug 2025
-- 📜 Bootcamps MK Edition'25 - IEEE SB DAIICT, Sept-2025
+- 📜 Python For Data Science — nptel, july-Aug 2025
+- 📜 Bootcamps ML Edition'25 - IEEE SB DAIICT, Sept-2025
 
 ---
 
@@ -104,6 +104,8 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Nakhuda&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%"/>
 
 </div>
+
+##                                                                                            Learn , Improve , Grow
 
 <div align="center">
 
