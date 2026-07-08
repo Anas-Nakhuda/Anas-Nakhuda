@@ -1,58 +1,112 @@
-<h1 align="center">Hi 👋, I'm Mohd Anas Nakhuda</h1>
-<h3 align="center">Computer Engineering Student | Future Software Developer 🚀</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
+
+### 📊 Turning messy data into decisions worth trusting
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anas-nakhuda.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-nakhuda-a70429284)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasnakhuda788@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Nakhuda)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anas-Nakhuda&color=2563eb&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Anas-Nakhuda?label=Followers&style=flat-square&color=2563eb)
+![Stars](https://img.shields.io/github/stars/Anas-Nakhuda?label=Stars&style=flat-square&color=2563eb)
+
+📍 Gujarat, India &nbsp;|&nbsp; 🎓 B.E. Computer Engineering &nbsp;|&nbsp; 🌐 [anas-nakhuda.vercel.app](https://anas-nakhuda.vercel.app/)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 4th Year B.E. Computer Engineering student at LDRP Institute of Research & Technology
-- 🌱 Currently learning **DSA, Web Development, AI/ML**
-- 💻 Interested in Software Development & Problem Solving
-- 📍 Gujarat, India
-- ⚡ Goal: Become a strong Data Engineer.
+### 👋 About Me
+
+Aspiring **Data Scientist** currently pursuing **B.E. in Computer Engineering** (CPI: **7.98**). I spend most of my time inside pandas dataframes, cleaning messy datasets, running exploratory analysis, and building baseline ML models to turn raw numbers into a story that holds up.
+
+Completed two **Data Science internships** — at **Synent Technologies** and **Cognifyz Solutions** — where I worked task-by-task through the real DS workflow: data cleaning → EDA → visualization → model building. Currently sharpening my fundamentals in Python, statistics, and scikit-learn while building projects end-to-end and documenting them publicly.
+
+- 🔭 Currently deepening my skills in **Machine Learning & Applied Statistics**
+- 🌱 Learning: **SQL for analytics** and **model deployment (Streamlit/Flask)**
+- 💬 Ask me about: **Pandas, EDA, Data Cleaning, Titanic/Iris/Netflix-style analysis**
+- ⚡ Fun fact: I'd rather debug a `KeyError` than watch a movie
 
 ---
 
-### 🛠 Languages & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,vscode" />
-</p>
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Science & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2563EB?style=for-the-badge)
+
+**Tools & Workflow**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🚀 Projects
-- 🎬 Movie Recommendation System (Python ML)
-- Resume Analyzer(python)
-- 📚 Student Management System (Java + MySQL)
-- 🌐 Personal Portfolio Website (HTML/CSS/JS)
-- 📊 Excel Data Analysis Projects
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🚢 Titanic Survival Prediction](https://github.com/Anas-Nakhuda/synent-task9-titanic-survival-MohdanasNakhuda) | End-to-end classification pipeline predicting passenger survival, evaluated on held-out data. | `Python` `scikit-learn` |
+| [🎬 EDA on Netflix Dataset](https://github.com/Anas-Nakhuda/synent-task3-EDAonNetflix-MohdanasNakhuda) | Exploratory analysis of Netflix's catalog — trends by genre, year, and country. | `Pandas` `Matplotlib` |
+| [🧹 Titanic Data Cleaning](https://github.com/Anas-Nakhuda/synent-task1-titaniccleaning-MohdanasNakhuda) | Handled missing values, inconsistent types, and outliers to prep the dataset for modeling. | `Pandas` `NumPy` |
+| [🌸 Iris Dataset Visualization](https://github.com/Anas-Nakhuda/synent-task2-Irisvisualization-MohdanasNakhuda) | Visual exploration of feature relationships to understand class separability. | `Seaborn` `Matplotlib` |
+| [🤖 Machine Learning Model](https://github.com/Anas-Nakhuda/synent-task8-MachineLearningModel-MohdanasNakhuda) | Trained and evaluated a supervised model, comparing metrics across algorithms. | `scikit-learn` `Python` |
+| [🙂 Emotion Recognition](https://github.com/Anas-Nakhuda) | CNN-based emotion classifier served through a small Flask app. | `CNN` `Flask` |
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: anasnakhuda788@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/anas-nakhuda-a70429284
+### 💼 Experience
+
+**Data Science Intern** — Cognifyz Solutions · *June 2026*
+- Worked on applied data-science tasks covering data cleaning, EDA, and model building on real-world-style datasets.
+- Delivered each task as a documented, reproducible notebook.
+
+**Data Science Intern** — Synent Technologies · *May 2026*
+- Completed a task-based internship: cleaned and explored datasets (Titanic, Iris, Netflix), built visualizations, and trained baseline ML models.
+- Shipped 5 tasks end-to-end and pushed all work to GitHub.
 
 ---
 
-###  Contribution
-![snake gif](https://github.com/Anas-Nakhuda/Anas-Nakhuda/blob/output/github-contribution-grid-snake.svg)
+### 🎓 Education & Certifications
+
+- **B.E. Computer Engineering** — CPI: `7.98` · Expected 2027
+- 📜 Python For Data Science — nptel,july-Aug 2025
+- 📜 Bootcamps MK Edition'25 - IEEE SB DAIICT, Sept-2025
 
 ---
 
-<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
+### 📈 GitHub Activity
 
+<div align="center">
 
-<!--
-**Anas-Nakhuda/Anas-Nakhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=Anas-Nakhuda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2563EB&icon_color=2563EB&text_color=EDEFF5" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Nakhuda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2563EB&text_color=EDEFF5" width="30%"/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Nakhuda&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1220&height=100&section=footer" width="100%"/>
+
+</div>
