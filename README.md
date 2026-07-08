@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&%20Data%20Science Ethusiast%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
 
 ### 📊 Turning messy data into decisions worth trusting
 
@@ -105,10 +105,10 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 
 </div>
 
-##                                                                                            Learn , Improve , Grow
+                                                                                    
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1220&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=140&section=footer&text=Learn%20•%20Improve%20•%20Grow&fontSize=30&fontColor=EDEFF5&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
