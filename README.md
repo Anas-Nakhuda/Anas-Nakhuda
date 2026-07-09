@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-Aspiring **Data Scientist** currently pursuing **B.E. in Computer Engineering** (CPI: **7.98**). I spend most of my time inside pandas dataframes, cleaning messy datasets, running exploratory analysis, and building baseline ML models to turn raw numbers into a story that holds up.
+AI/ML & **Data Science Enthusiast** currently pursuing **B.E. in Computer Engineering** (CPI: **7.98**). I spend most of my time inside pandas dataframes, cleaning messy datasets, running exploratory analysis, and building baseline ML models to turn raw numbers into a story that holds up.
 
 Completed two **Data Science internships** — at **Synent Technologies** and **Cognifyz Solutions** — where I worked task-by-task through the real DS workflow: data cleaning → EDA → visualization → model building. Currently sharpening my fundamentals in Python, statistics, and scikit-learn while building projects end-to-end and documenting them publicly.
 
@@ -93,19 +93,6 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 - 📜 Bootcamps ML Edition'25 - IEEE SB DAIICT, Sept-2025
 
 ---
-
-### 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anas-Nakhuda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2563EB&icon_color=2563EB&text_color=EDEFF5" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Nakhuda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2563EB&text_color=EDEFF5" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Nakhuda&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%"/>
-
-</div>
-
-                                                                                    
 
 <div align="center">
 
