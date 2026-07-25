@@ -13,7 +13,7 @@
 ![Followers](https://img.shields.io/github/followers/Anas-Nakhuda?label=Followers&style=flat-square&color=2563eb)
 ![Stars](https://img.shields.io/github/stars/Anas-Nakhuda?label=Stars&style=flat-square&color=2563eb)
 
-📍 Gujarat, India &nbsp;|&nbsp; 🎓 B.E. Computer Engineering &nbsp;|&nbsp; 🌐 [anas-nakhuda.vercel.app](https://anas-nakhuda.vercel.app/)
+📍 Gujarat, India &nbsp;|&nbsp; 🎓 B.E. Computer Engineering &nbsp;|&nbsp; 🌐 [Portfolio](https://anas-nakhuda.vercel.app/)
 
 </div>
 
