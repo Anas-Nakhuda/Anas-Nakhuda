@@ -23,7 +23,7 @@
 
 AI/ML & **Data Science Enthusiast** currently pursuing **B.E. in Computer Engineering** (CPI: **7.98**). I spend most of my time inside pandas dataframes, cleaning messy datasets, running exploratory analysis, and building baseline ML models to turn raw numbers into a story that holds up.
 
-Completed two **Data Science internships** — at **Synent Technologies** and **Cognifyz Solutions** — where I worked task-by-task through the real DS workflow: data cleaning → EDA → visualization → model building. Currently sharpening my fundamentals in Python, statistics, and scikit-learn while building projects end-to-end and documenting them publicly.
+Completed two **Data Science internships** — at **Synent Technologies** and **Cognifyz Solutions** — where I worked task-by-task through the real DS workflow: data cleaning → EDA → visualization → model building. Currently sharpening my fundamentals in Python, statistics, and scikit-learn while building projects end-to-end, deploying them, and documenting them publicly.
 
 - 🔭 Currently deepening my skills in **Machine Learning & Applied Statistics**
 - 🌱 Learning: **SQL for analytics** and **model deployment (Streamlit/Flask)**
@@ -64,7 +64,42 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Flagship Builds — Live on Streamlit
+
+Deployed, working apps rather than notebooks — the two projects I'd point you to first.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 EcoRoute AI Advisory**
+
+AI-driven route advisory app — analyzes trip options and surfaces greener, more efficient routing recommendations through an interactive Streamlit interface.
+
+`Python` `Streamlit` `AI Advisory`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=streamlit&logoColor=white)](https://ecoroute-ai-advisory.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Nakhuda/EcoRoute-AI)
+
+</td>
+<td width="50%" valign="top">
+
+**📄 DocPulse AI**
+
+AI-powered document intelligence app — upload a document and get automated reading, analysis, and insight extraction back through a clean Streamlit UI.
+
+`Python` `Streamlit` `Document AI`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=streamlit&logoColor=white)](https://docpulse-ai.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Nakhuda)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📂 More Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -73,17 +108,17 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 | [🧹 Titanic Data Cleaning](https://github.com/Anas-Nakhuda/synent-task1-titaniccleaning-MohdanasNakhuda) | Handled missing values, inconsistent types, and outliers to prep the dataset for modeling. | `Pandas` `NumPy` |
 | [🌸 Iris Dataset Visualization](https://github.com/Anas-Nakhuda/synent-task2-Irisvisualization-MohdanasNakhuda) | Visual exploration of feature relationships to understand class separability. | `Seaborn` `Matplotlib` |
 | [🤖 Machine Learning Model](https://github.com/Anas-Nakhuda/synent-task8-MachineLearningModel-MohdanasNakhuda) | Trained and evaluated a supervised model, comparing metrics across algorithms. | `scikit-learn` `Python` |
-| [🙂 Emotion Recognition](https://github.com/Anas-Nakhuda) | CNN-based emotion classifier served through a small Flask app. | `CNN` `Flask` |
+| [🙂 Emotion Recognition](https://github.com/Anas-Nakhuda/Emotion-Recognition) | CNN-based emotion classifier served through a small Flask app. | `CNN` `Flask` |
 
 ---
 
 ### 💼 Experience
 
-**Data Science Intern** — Cognifyz Solutions · *June 2026*
+**Data Science Intern** — Cognifyz IT Solutions · *May – Jun 2026*
 - Worked on applied data-science tasks covering data cleaning, EDA, and model building on real-world-style datasets.
 - Delivered each task as a documented, reproducible notebook.
 
-**Data Science Intern** — Synent Technologies · *May 2026*
+**Data Science Intern** — Synent Technologies · *Apr – May 2026*
 - Completed a task-based internship: cleaned and explored datasets (Titanic, Iris, Netflix), built visualizations, and trained baseline ML models.
 - Shipped 5 tasks end-to-end and pushed all work to GitHub.
 
@@ -92,13 +127,14 @@ Completed two **Data Science internships** — at **Synent Technologies** and **
 ### 🎓 Education & Certifications
 
 - **B.E. Computer Engineering** — CPI: `7.98` · Expected 2027
-- 📜 Python For Data Science — nptel, july-Aug 2025
-- 📜 Bootcamps ML Edition'25 - IEEE SB DAIICT, Sept-2025
+- 📜 Python for Data Science — NPTEL (Elite), IIT Madras · Jul–Aug 2025
+- 📜 Bootcamps ML Edition '25 — IEEE SB DAIICT · Sep 2025
+- 📜 Machine Learning Onramp — MathWorks Training Services · Sep 2025
+- 📜 Machine Learning — Acmegrade ,  jul 2025
+- 📜 Python Fundamentals for Beginners — Great Learning · Jun 2025
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=140&section=footer&text=Learn%20•%20Improve%20•%20Grow&fontSize=30&fontColor=EDEFF5&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-</div>
