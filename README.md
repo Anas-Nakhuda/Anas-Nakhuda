@@ -132,6 +132,7 @@ AI-powered document intelligence app — upload a document and get automated rea
 - 📜 Machine Learning Onramp — MathWorks Training Services · Sep 2025
 - 📜 Machine Learning — Acmegrade ,  jul 2025
 - 📜 Python Fundamentals for Beginners — Great Learning · Jun 2025
+- 📜 Deloitte - Data Analysis · Aug 2026
 
 ---
 
