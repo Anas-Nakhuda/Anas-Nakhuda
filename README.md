@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=180&section=header&text=Anas%20Nakhuda&fontSize=42&fontColor=EDEFF5&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Computer%20Engineering&descAlignY=58&descColor=93A0B8&animation=fadeIn" width="100%"/>
 
-### 📊 Turning messy data into decisions worth trusting
+### 📊 Turning messy data into decisions worth trusting.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://anas-nakhuda.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-nakhuda-a70429284)
